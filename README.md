@@ -3,7 +3,7 @@
 
 const Programmer me = {
   .name = "Aiden Olsen",
-  .age = 23,
+  .contact = "olsenaiden33@gmail.com",
   .langs = {
     "c", "c++", "rust", 
     "python", "javascript", "typescript",
