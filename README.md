@@ -5,7 +5,7 @@ const Programmer me = {
   .name = "Aiden Olsen",
   .contact = "olsenaiden33@gmail.com",
   .langs = {
-    "c", "c++", "rust", 
+    "c", "c++", "go", "rust",
     "python", "javascript", "typescript",
     "bash"
   },
